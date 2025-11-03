@@ -62,7 +62,9 @@ pip install torch torchvision opencv-python matplotlib seaborn scikit-learn
 ✅ รันบน Google Colab เพื่อเทรนโมเดล
 
 1.เปิดไฟล์ Facial_Emotion_Recognition.ipynb บน Colab
+
 2.อัปโหลดไฟล์ fer2013.csv
+
 3.รันทุกเซลล์ตามลำดับ → จะได้ไฟล์โมเดล fer2013_cnn_model_with_evaluate.pth
 
 ✅ รันบนเครื่องเพื่อทำนายอารมณ์แบบเรียลไทม์
